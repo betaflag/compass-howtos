@@ -11,4 +11,4 @@ These examples are organized as sample websites named 01, 02, 03 and so on. Each
 Summary
 -------
 
-* 01 - Beginning with compass and blueprint
+* 01 - [Beginning with Compass and Blueprint](https://github.com/niclupien/compass-examples/wiki/Example-01)
