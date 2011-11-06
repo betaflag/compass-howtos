@@ -1,0 +1,27 @@
+@import "blueprint/reset";
+@import "partials/base";
+@import "blueprint";
+
+body {
+  @include blueprint-typography(true);
+  @include blueprint-debug;
+
+  #container {
+    @include container;
+    @include showgrid();
+  }
+
+  header, footer {
+    @include column($blueprint-grid-columns);
+  }
+
+  #lipsum-1, #lipsum-2, #lipsum-3 {
+    @include column($blueprint-grid-columns/3);
+  }
+
+  #lipsum-3 {
+    @include last;
+  }
+}
+
+
