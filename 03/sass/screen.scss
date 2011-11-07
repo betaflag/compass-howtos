@@ -1,0 +1,16 @@
+@import "blueprint/reset";
+@import "blueprint";
+
+@include blueprint-typography();
+
+#container {
+  @include container;
+}
+
+form {
+  @include blueprint-form;
+}
+
+form.inline {
+  @include blueprint-inline-form;
+}
