@@ -12,4 +12,5 @@ Summary
 -------
 
 * 01 - Beginning with Compass and Blueprint [src](https://github.com/niclupien/compass-examples/tree/master/01), [wiki](https://github.com/niclupien/compass-examples/wiki/Example-01), [demo](http://compass.niclupien.com/01/)
-* 02 - Compass Blueprint Buttons [src](https://github.com/niclupien/compass-examples/tree/master/02), [wiki](https://github.com/niclupien/compass-examples/wiki/Compass-buttons), [demo](http://compass.niclupien.com/02/)
+* 02 - Compass Buttons [src](https://github.com/niclupien/compass-examples/tree/master/02), [wiki](https://github.com/niclupien/compass-examples/wiki/Compass-buttons), [demo](http://compass.niclupien.com/02/)
+* 03 - Compass Forms [src](https://github.com/niclupien/compass-examples/tree/master/03), [wiki](https://github.com/niclupien/compass-examples/wiki/Compass-forms), [demo](http://compass.niclupien.com/03/)
