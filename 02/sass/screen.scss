@@ -1,0 +1,55 @@
+@import "blueprint/reset";
+@import "partials/base";
+@import "blueprint";
+@import "blueprint/buttons";
+@import "compass/css3";
+
+body {
+  @include blueprint-typography(true);
+
+  #container {
+    @include container;
+  }
+
+  a.btn {
+    @include anchor-button;
+    @include button-colors;
+    @include button-hover-colors;
+    @include button-active-colors;
+  }
+
+  button.btn {
+    @include button-button;
+    @include button-colors;
+    @include button-hover-colors;
+    @include button-active-colors;
+  }
+
+  a.positive, button.positive {
+    color: #529214;
+    @include button-hover-colors(#529214, #e6efc2, #c6d880);
+    @include button-active-colors(white, #529214, #529214);
+  }
+
+  a.negative, button.negative {
+    color: #d12f19;
+    @include button-hover-colors(#d12f19, #fbe3e4, #fbc2c4);
+    @include button-active-colors(white, #d12f19, #d12f19); 
+  }
+
+  a.gorgeous, button.gorgeous {
+    @include background-image(linear-gradient(#049cdb, #0064cd));
+    @include border-radius;
+    @include box-shadow(inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05));
+    color: white;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    border-color: #0064cd #0064cd #003f81;
+    &:hover {
+      color: white;
+      border-color: #0064cd #0064cd #003f81;
+      background: #0064CD;
+    }
+  }
+}
+
+
