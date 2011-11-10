@@ -18,3 +18,4 @@ Summary
 * 02 - Blueprint Buttons [src](https://github.com/niclupien/compass-examples/tree/master/02), [wiki](https://github.com/niclupien/compass-examples/wiki/Blueprint-buttons), [demo](http://compass.niclupien.com/02/)
 * 03 - Blueprint Forms [src](https://github.com/niclupien/compass-examples/tree/master/03), [wiki](https://github.com/niclupien/compass-examples/wiki/Blueprint-forms), [demo](http://compass.niclupien.com/03/)
 * 04 - Blueprint Interactions [src](https://github.com/niclupien/compass-examples/tree/master/04), [wiki](https://github.com/niclupien/compass-examples/wiki/Blueprint-interactions), [demo](http://compass.niclupien.com/04/)
+* 05 - Blueprint Liquid [src](https://github.com/niclupien/compass-examples/tree/master/05), [wiki](https://github.com/niclupien/compass-examples/wiki/Blueprint-liquid), [demo](http://compass.niclupien.com/05/)
