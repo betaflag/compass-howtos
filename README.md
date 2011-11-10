@@ -19,13 +19,13 @@ Summary
 * 03 - Blueprint Forms [src](https://github.com/niclupien/compass-examples/tree/master/03), [wiki](https://github.com/niclupien/compass-examples/wiki/Blueprint-forms), [demo](http://compass.niclupien.com/03/)
 * 04 - Blueprint Interactions [src](https://github.com/niclupien/compass-examples/tree/master/04), [wiki](https://github.com/niclupien/compass-examples/wiki/Blueprint-interactions), [demo](http://compass.niclupien.com/04/)
 * 05 - Blueprint Liquid [src](https://github.com/niclupien/compass-examples/tree/master/05), [wiki](https://github.com/niclupien/compass-examples/wiki/Blueprint-liquid), [demo](http://compass.niclupien.com/05/)
+* 06 - Blueprint Liquid [src](https://github.com/niclupien/compass-examples/tree/master/06), [wiki](https://github.com/niclupien/compass-examples/wiki/Blueprint-link-icons), [demo](http://compass.niclupien.com/06/)
 
 Ideas
 -------------
 
 Ideas for future examples
 
-* Blueprint link icons
 * Blueprint Scaffolding
 * Real world examples of compass
 * In depth exploration of blueprint grid
