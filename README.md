@@ -21,7 +21,7 @@ Summary
 * 05 - Blueprint Liquid [src](https://github.com/niclupien/compass-examples/tree/master/05), [wiki](https://github.com/niclupien/compass-examples/wiki/Blueprint-liquid), [demo](http://compass.niclupien.com/05/)
 * 06 - Blueprint Link Icons [src](https://github.com/niclupien/compass-examples/tree/master/06), [wiki](https://github.com/niclupien/compass-examples/wiki/Blueprint-link-icons), [demo](http://compass.niclupien.com/06/)
 * 07 - Blueprint Scaffolding [src](https://github.com/niclupien/compass-examples/tree/master/07), [wiki](https://github.com/niclupien/compass-examples/wiki/Blueprint-Scaffolding), [demo](http://compass.niclupien.com/07/)
-* 08 - Compass Grids Background [src](https://github.com/niclupien/compass-examples/tree/master/08), [wiki](https://github.com/niclupien/compass-examples/wiki/Compass-Grid-Backgrounds), [demo](http://compass.niclupien.com/08/)
+* 08 - Compass Grid Backgrounds [src](https://github.com/niclupien/compass-examples/tree/master/08), [wiki](https://github.com/niclupien/compass-examples/wiki/Compass-Grid-Backgrounds), [demo](http://compass.niclupien.com/08/)
 
 Ideas
 -------------
