@@ -1,0 +1,15 @@
+@import "blueprint/reset";
+@import "partials/base";
+@import "blueprint";
+@import "blueprint/link-icons";
+@import "compass/typography/text/replacement";
+
+@include blueprint-typography;
+
+#container {
+  @include container;
+}
+
+#logo {
+  @include replace-text-with-dimensions('compass.png');
+}
