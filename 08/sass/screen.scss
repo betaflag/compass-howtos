@@ -1,0 +1,27 @@
+@import "blueprint/reset";
+@import "partials/base";
+@import "blueprint";
+@import "blueprint/liquid";
+@import "compass/layout/grid-background";
+
+@include blueprint-typography;
+
+#container {
+  @include container;
+  @include grid-background;
+  width: 99%;
+}
+
+header, footer {
+  @include column($blueprint-grid-columns);
+}
+
+#lipsum-1, #lipsum-2, #lipsum-3 {
+  @include column($blueprint-grid-columns/3);
+}
+
+#lipsum-3 {
+  @include last;
+}
+
+
